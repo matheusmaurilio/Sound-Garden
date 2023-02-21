@@ -2,10 +2,10 @@
 # Sound-Garden
 
 ## Projeto GAMA ACADEMY 
-   Contribuintes:
-   * Vanessa Pereira Bandeira 
-   * Matheus Santos Maurilio
-   * Marcelo Campos
+   Contribuintes: 
+   * Vanessa Pereira Bandeira [https://github.com/BandeiraVanessa]
+   * Matheus Santos Maurilio 
+   * Marcelo Campos [https://github.com/MarceloCCardoso]
 
 
 OBJETIVOS DE APRENDIZAGEM: 
