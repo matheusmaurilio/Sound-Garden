@@ -1,8 +1,7 @@
 
 # Sound-Garden
 
-## Projeto GAMA ACADEMY - Sound Garden.
-   XP48 
+## Projeto GAMA ACADEMY 
    Contribuintes:
    * Vanessa Pereira Bandeira 
    * Matheus Santos Maurilio
@@ -42,7 +41,7 @@ https://documenter.getpostman.com/view/3028053/UVsTp2LC
 
 ## FUNCIONALIDADE OPCIONAL
 
-* Criar um banner rotativo para a primeira seção da
+* Banner rotativo para a primeira seção da
 landing page.
 
 ### MATERIAL COMPLEMENTAR:
