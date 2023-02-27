@@ -50,4 +50,4 @@ https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model - MODELO 
 
 https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch - API FETCH
 
-https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods - METÓDOS HTTP
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods - METÓDOS HTTP  
